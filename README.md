@@ -3,7 +3,7 @@
 This repository documents an end-to-end data analytics project focused on the **2024 Indian General Elections**, leveraging five relational datasets for comprehensive data modeling, SQL analysis, and rich Power BI dashboarding.
 
 
-## 🔍 Project Overview
+## Project Overview
 
 This project demonstrates the **use of multiple, related datasets to analyze the 2024 Indian General Elections** with both SQL and Power BI. All data import, transformation, and visualization are built using the five datasets listed above — ensuring consistency across SQL analysis and dashboard reporting.
 
@@ -12,7 +12,7 @@ This project demonstrates the **use of multiple, related datasets to analyze the
 - **SQL Analysis:** Robust scripts for cleaning, aggregating, and deriving insights from all tables.
 - **Power BI Dashboards:** Interactive visualizations, all sourced from these datasets.
 
-## 🗂️ Data Sources
+## Data Sources
 
 | Dataset                    | Description                                                    |
 |----------------------------|----------------------------------------------------------------|
@@ -56,7 +56,7 @@ These files were imported as CSVs and joined for analysis. No direct SQL databas
 3. **SQL Analysis:** Sample queries included in `SQL-Queries.docx` for learners wishing to practice independent data wrangling or to replicate logic outside Power BI.
 4. **Visualization:** All reporting, analysis, and KPIs in Power BI reference this unified data foundation.
 
-## 🖼️ Sample Dashboard Images
+## Sample Dashboard Images
 
 **Landing Page:**  
 <img width="1372" height="750" alt="Screenshot 2025-08-02 035245" src="https://github.com/user-attachments/assets/2f161e5c-1185-4631-8a62-90ea2b7eb182" />
@@ -92,7 +92,7 @@ These files were imported as CSVs and joined for analysis. No direct SQL databas
   
 
 
-## 📝 How to Use
+## How to Use
 
 - **Power BI:** Open the `.pbix` file; dashboards will load off the five imported datasets.
 - **SQL:** Review/run scripts in `SQL-Queries.docx` after importing each CSV as its own table in SQL.
