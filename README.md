@@ -49,7 +49,7 @@ These files were imported as CSVs and joined for analysis. No direct SQL databas
 - All results, fully filterable, exportable for analyst use
 - Includes drill-through capability and Excel export
 
-## ⚙️ Data Workflow
+## Data Workflow
 
 1. **Import:** All five datasets imported as CSVs into Power BI.
 2. **Modeling:** Relationships established using Power BI’s data model (star/snowflake schema as needed).
