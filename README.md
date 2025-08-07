@@ -92,15 +92,4 @@ These files were imported as CSVs and joined for analysis. No direct SQL databas
   
 
 
-## How to Use
-
-- **Power BI:** Open the `.pbix` file; dashboards will load off the five imported datasets.
-- **SQL:** Review/run scripts in `SQL-Queries.docx` after importing each CSV as its own table in SQL.
-- **Screenshots:** Browse `/screenshots/` for a quick preview.
-
-### For Recruiters/Hiring Managers
-- Demonstrates advanced data modeling from multiple sources
-- Shows competence in both SQL analytics and Power BI dashboarding
-- Fully reproducible with only CSVs and Power BI Desktop
-
 
